@@ -1,0 +1,2 @@
+# Requirements Praktikum Python Dasar
+# Menggunakan library bawaan Python
